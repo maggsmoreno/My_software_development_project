@@ -22,11 +22,13 @@ This project is a **Streamlit web app** that allows users to explore and analyze
    git clone <your-github-repo-url>
    cd My_software_development_project
 
-python3 -m venv venv
-source venv/bin/activate  # On Mac/Linux
-venv\Scripts\activate  # On Windows
+   python3 -m venv venv
+   source venv/bin/activate  # On Mac/Linux
+   venv\Scripts\activate  # On Windows
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-streamlit run app.py
+   streamlit run app.py
+   ```
 
+Webpage: https://my-software-development-project.onrender.com/
